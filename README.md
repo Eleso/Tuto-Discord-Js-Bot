@@ -16,5 +16,4 @@ Ok so now if you have warn in your node js command prompt this is good
 # 3- Last step : 
 Create a file named ``config.json``
 And a file names ``index.js``
-
 Now we done de Prerequisites go to the index.js
